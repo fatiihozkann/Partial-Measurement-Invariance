@@ -1,0 +1,7 @@
+/* custom-styles.css */
+.reveal .slides section.has-title-slide h1 {
+  font-size: 2em; /* This will make your title smaller. Adjust '2em' as needed. */
+                  /* Based on your screenshot, 2em or slightly less (e.g., 1.8em) */
+                  /* should give you the desired result. */
+  line-height: 1.2; /* Helps with vertical spacing between lines of the title */
+}
